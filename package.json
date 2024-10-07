@@ -1,0 +1,19 @@
+{
+  "name": "selenium",
+  "version": "1.0.0",
+  "description": "practice with selenium webdriver",
+  "main": "index.js",
+  "scripts": {
+    "test": "node script.js"
+  },
+  "keywords": [
+    "selenium-webdriver",
+    "xpath",
+    "loactors"
+  ],
+  "author": "Ahmad Shakir",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.25.0"
+  }
+}
