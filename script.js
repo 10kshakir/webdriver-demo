@@ -31,3 +31,5 @@ async function runTest() {
 }
 
 runTest();
+
+console.log("hello world");
